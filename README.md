@@ -1,4 +1,13 @@
-# Speech Understanding Assignment
+# Speech Understanding Assignment-1
+
+**Name:** Asit Jain  
+**Roll No:** M25DE1049  
+
+
+---
+
+Python implementation covering three questions on speech processing.
+
 
 Python implementation covering three questions on speech processing.
 
