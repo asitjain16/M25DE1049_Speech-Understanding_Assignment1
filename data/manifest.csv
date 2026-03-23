@@ -1,0 +1,3 @@
+id,wav_path,lab_path
+0,examples/0.wav,examples/0.lab
+1,examples/1.wav,examples/1.lab
